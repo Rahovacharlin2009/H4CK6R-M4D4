@@ -1,13 +1,20 @@
-# Installtion command 👇
-pkg update
+# Installation command
 
-pkg upgrade
+apt update
 
-pkg install git
+apt upgrade
 
-pkg install python
+apt install git
 
-pkg install figlet
+apt install python
+
+apt install python2
+
+pip2 install requests
+
+pip2 install mechanize
+
+pip2 install bs4
 
 git clone https://github.com/Rahovacharlin2009/H4CK6R-M4D4
 
